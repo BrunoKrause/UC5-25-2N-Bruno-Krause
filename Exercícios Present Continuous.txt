@@ -1,0 +1,39 @@
+I run | I'm running | Am I running?
+
+She swims | She is swimming | Is she swimming?
+
+He sits | He is sitting | Is he sitting?
+
+You stop | You are stopping | Are you stopping?
+
+We plan | We are planning | Are we planning?
+
+They travel | They are traveling | Are they traveling?
+
+I dance | I'm dancing | Am I dancing?
+
+I write | I'm Writing | Am I writing?
+
+I make | I'm making | Am I making?
+
+He drives | He is driving | Is he driving?
+
+He comes | He is coming | Is he coming?
+
+She takes | She is taking | Is she taking?
+
+She moves | She is moving | Is she moving?
+
+You lie | You are lying | Are you lying?
+
+You get | You are getting | Are you getting?
+
+We shop | We are shopping | Are we shopping?
+
+We begin | We are beginning | Are we beginning
+
+I forget | I'm forgeting | Am I forgeting?
+
+He uses | He is using | Is he using?
+
+She lives | She is living | Is she living?

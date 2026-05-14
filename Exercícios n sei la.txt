@@ -1,0 +1,19 @@
+I am playing soccer -> I am not playing soccer -> Am I playing soccer?
+
+She's cooking the dinner -> She isn't cooking the dinner -> Is she cooking the dinner?
+
+He's studying englsih -> He isn't studying english -> Is he studying english?
+
+It's playing with the ball -> It isn't playing with the ball -> Is it playing with the ball?
+
+They're working together -> They aren't working together -> Are they working together?
+
+It's raining now -> It isn't raining now - Is it raining now?
+
+You're eating -> You aren't eating -> Are you eating?
+
+I'm spending a time -> I'm not spending a time -> Am I spending a time?
+
+You're crying now -> You aren't crying now -> Are you crying now?
+
+She's traveling this week -> She isn't traveling this week -> Is she traveling this week?
