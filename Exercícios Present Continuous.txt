@@ -15,25 +15,38 @@ I dance | I'm dancing | Am I dancing?
 I write | I'm Writing | Am I writing?
 
 I make | I'm making | Am I making?
+I will make | I'm goint to make | Will I make?
+
 
 He drives | He is driving | Is he driving?
+He will drive | He is going to drive | Will he drive?
 
 He comes | He is coming | Is he coming?
+He will come | He is going to come | Will he come?
 
 She takes | She is taking | Is she taking?
+She will take | She is going to take | Will she take?
 
 She moves | She is moving | Is she moving?
+She will move | She is going to move | Will she move?
 
 You lie | You are lying | Are you lying?
+You will lie | You are going to lie | Will you lie?
 
 You get | You are getting | Are you getting?
+You will get | You are going to get | Will you get?
 
 We shop | We are shopping | Are we shopping?
+We will shop | We are going to shop | Will we shop?
 
 We begin | We are beginning | Are we beginning
+We will begin | We are going to begin | Will we begin
 
 I forget | I'm forgeting | Am I forgeting?
+I will forget | I'm going to forget | Will I forget?
 
 He uses | He is using | Is he using?
+He will use | He is going to use | Will he use?
 
 She lives | She is living | Is she living?
+She will live | She is going to live | Will she live?
