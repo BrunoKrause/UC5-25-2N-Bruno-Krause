@@ -125,7 +125,7 @@ function showPhrase() {
                 Congratulations!!
                 Right sentence: "${phrase.right}"
                 `)
-                continuar = rl.question('Press ENTER to next...')
+                let continuar = rl.question('Press ENTER to next...')
                 counter++
             }
             break
@@ -150,7 +150,7 @@ function showPhrase() {
                 Congratulations!!
                 Right sentence: "${phrase.right}"
                 `)
-                continuar = rl.question('Press ENTER to next...')
+                let continuar = rl.question('Press ENTER to next...')
                 counter++
             }
             break
@@ -175,7 +175,7 @@ function showPhrase() {
                 Congratulations!!
                 Right sentence: "${phrase.right}"
                 `)
-                continuar = rl.question('Press ENTER to next...')
+                let continuar = rl.question('Press ENTER to next...')
                 counter++
             }
             break
@@ -200,7 +200,7 @@ function showPhrase() {
                 Congratulations!!
                 Right sentence: "${phrase.right}"
                 `)
-                continuar = rl.question('Press ENTER to next...')
+                let continuar = rl.question('Press ENTER to next...')
                 counter++
             }
             break
