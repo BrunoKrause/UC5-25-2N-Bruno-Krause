@@ -118,7 +118,7 @@ function showPhrase() {
                 `)
                 getAnswer()
                 while (answer.toLowerCase() !== phrase.right.toLowerCase()){
-                    console.log('\nTente novamente\n')
+                    console.log('\nTry Again\n')
                     getAnswer()
                 }
                 console.log(`
